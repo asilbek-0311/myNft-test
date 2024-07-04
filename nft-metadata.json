@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Hair color",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Transparent"
+    }
+  ],
+  "description": "My avatar saying hi",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQNCoq62Ge3gAQwyPPrqD7FXVtwXdE52m6FMZe9G5z6Z1",
+  "name": "Becky"
+}
